@@ -1,5 +1,4 @@
 const express = require('express');
-constconst express = require('express');
 const app = express();
 
 //Middlewares
